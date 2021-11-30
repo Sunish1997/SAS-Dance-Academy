@@ -51,7 +51,7 @@ public String viewStudentPage(Model model) {
 	 
 	    model.addAttribute("liststudent", li);
 	  
-	    return "student";
+	    return "Student";
 	}
 
 
